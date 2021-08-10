@@ -2,4 +2,4 @@
 
 ## About
 
-This is basic calculator build in React using Redux for state management.
+This is basic calculator built in React using Redux for state management.
